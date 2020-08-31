@@ -5,3 +5,4 @@
 
 ### 二、 下载安装SourceTree
 ###### 1.下载地址：<https://www.sourcetreeapp.com/>，该版本是中文的
+###### 2.安装：
